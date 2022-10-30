@@ -128,7 +128,7 @@ const coolThingContext = createContext('cool-thing');
 this.dispatchEvent(
     new ContextEvent(
         coolThingContext, // the context we want to retrieve
-        callback: (coolThing) => {
+        (coolThing) => {
             this.myCoolThing = coolThing; // do something with value
         }
     )
