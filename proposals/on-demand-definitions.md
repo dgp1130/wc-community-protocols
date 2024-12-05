@@ -5,7 +5,7 @@ side-effects.
 
 **Author**: [dgp1130](https://github.com/dgp1130/)
 
-**Status**: Draft
+**Status**: Proposal
 
 **Created**: 2024-11-26
 
